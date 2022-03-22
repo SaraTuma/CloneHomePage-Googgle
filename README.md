@@ -12,4 +12,9 @@ Clonagem da página Home da Google usando HTML e CSS!
 
 Imagens da telas
 
-![Tela mobile](./imagens/tela1.png)
+![Tela mobile](./images/tela1.png)
+
+![Tela Desktop](./images/tela2.png)
+
+
+OBS: sem esquecer de um video curto, onde eu explico como eu fiz, o clone!
