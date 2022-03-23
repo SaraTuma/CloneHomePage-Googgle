@@ -1,7 +1,7 @@
 # CloneHomePage-Googgle
 ## Desafio CDA Girls
 
-Sugerido pela Juliana Soba, uma das embaixadoras da CDA Girls
+Sugerido pela [Juliana Soba](https://github.com/JulianaSobaJava), uma das embaixadoras da CDA Girls
 
 ## Detalhes
 Clonagem da página Home da Google usando as tecnologias HTML e CSS!
