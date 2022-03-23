@@ -5,6 +5,7 @@ Sugerido pela [Juliana Soba](https://github.com/JulianaSobaJava), uma das embaix
 
 ## Detalhes
 Clonagem da página Home da Google usando as tecnologias HTML e CSS!
+Usando o GitHub Pages, o link: https://saratuma.github.io/CloneHomePage-Googgle/
 
 ##Ferramentas
 1. Vscode
